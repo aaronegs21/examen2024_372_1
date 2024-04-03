@@ -1,0 +1,103 @@
+    1  cod .
+    2  cd desktop
+    3  cd python
+    4  mkdir python
+    5  cd python
+    6  ls
+    7  touch main.py; code .
+    8  pwd
+    9  mkdir ~/Desktop/jupyter/;cd ~/Desktop/jupyter; s
+   10  mkdir ~/Escritorio/jupyter/;cd ~/Escritorio/jupyter; s
+   11  pip --version
+   12  pip install jupyter
+   13  pip install jupyterlab
+   14  pip uninstall jupyter
+   15  python -m venv virtual
+   16  mkdir ~/Escritorio/jupyter/;cd ~/Escritorio/jupyter; s
+   17  mkdir ~/Desktop/jupyter/;cd ~/Desktop/jupyter; s
+   18  python -m venv virtual
+   19  l
+   20  deactivate
+   21  source activate
+   22  ipython
+   23  pip install asciiart
+   24  git clone https://github.com/cheemsdoggie/jupyterexample?tab=readme-ov-file otro nombre
+   25  git clone https://github.com/cheemsdoggie/jupyterexample?tab=readme-ov-file 
+   26  cd ~/Descktop/
+   27  mkdir server
+   28  python -m venv env
+   29  pip intsall virtualenv
+   30  pip install virtualenv
+   31  export PATH="/c/Python39:$PATH"
+   32  pip install virtualenv
+   33  pip install virtualenv
+   34  [200~python --version~
+   35  pyhton --version
+   36  pyhton --version
+   37  ~
+   38  mkdir examen372
+   39  cd examen372
+   40  chmod +x create.sh
+   41  git clone https://gist.github.com/c30b7f7a5fb67e737fba21e63d1e05db.git instrucciones
+   42  cd instrucciones
+   43  rm -rf .git/
+   44  code .
+   45  cd examen372
+   46  cd examen372
+   47  mkdir examen372
+   48  cd examen372
+   49  cd ..
+   50  cd ..
+   51  histroy -c
+   52  history --c
+   53  c ..
+   54  c ..
+   55  git clone https://gist.github.com/c30b7f7a5fb67e737fba21e63d1e05db.git instrucciones
+   56  cd instrucciones
+   57  rm -rf .git/
+   58  code .
+   59  create.sh
+   60  mkdir create.sh
+   61  mkdir 372
+   62  cd 372
+   63  echo "#! / bin/bash" > 372/create.sh
+   64  echo "#! / bin/bash" > 372/hoja.txt
+   65  nano create.sh
+   66  rm -rf webapp
+   67  mkdir -p webapp/{css,js,docs/{text,python},img}
+   68  sh
+   69  `cmd //c tree //F ./
+   70  [200~sh
+   71  curl -o meme.jpg "https://pm1.aminoapps.com/7021/417429318f6b29b6bc737fb95ba1ddafc9ba2decr1-720-642v2_hq.jpg
+   72  cd
+   73  c ..
+   74  history
+   75  sh
+   76  sh
+   77  cmd //c tree //F ./
+   78  cd instrucciones
+   79  cmd //c tree //F ./
+   80  touch webapp/{file1.txt,file2.txt,file3.txt,file4.txt,file5.txt,fileN.txt}
+   81  mkdir -p webapp/{css,js,docs/{text,python},img}
+   82  touch webapp/{app.js,index.html,main.py,meme.jpg,style.css}
+   83  touch webapp/{file1.txt,file2.txt,file3.txt,file4.txt,file5.txt,fileN.txt}
+   84  mkdir -p webapp/{css,js,docs/{text,python},img}
+   85  cmd //c tree //F ./
+   86  mv webapp/style.css webapp/css/
+   87  cd webapp
+   88  mv webapp/style.css webapp/css/
+   89  mv webapp/file*.txt webapp/docs/text/
+   90  [200~mv webapp/main.py webapp/docs/python/
+   91  mv webapp/main.py webapp/docs/python/
+   92  mv webapp/app.js webapp/js/
+   93  cmd //c tree //F ./
+   94  ./create.sh
+   95  [200~mv examen372.md README.md
+   96  mv examen372.md README.md
+   97  cd examen372
+   98  c..
+   99  c ..
+  100  cd examen372
+  101  mv examen372.md README.md
+  102  mv README.md examen372/
+  103  history > history.txt
